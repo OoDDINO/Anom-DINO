@@ -90,6 +90,37 @@ The OodDINO framework has been evaluated on the RoadAnomaly and SegmentMeIfYouCa
 
 The baseline for this framework is provided by RPL.
 
+The train set for this framework is provided by S2M.
+
+
+```
+
+@article{chen2019mmdetection,
+  title={MMDetection: Open mmlab detection toolbox and benchmark},
+  author={Chen, Kai and Wang, Jiaqi and Pang, Jiangmiao and Cao, Yuhang and Xiong, Yu and Li, Xiaoxiao and Sun, Shuyang and Feng, Wansen and Liu, Ziwei and Xu, Jiarui and others},
+  journal={ARXIV},
+  year={2019}
+}
+
+@inproceedings{liu2023residual,
+  title={Residual pattern learning for pixel-wise out-of-distribution detection in semantic segmentation},
+  author={Liu, Yuyuan and Ding, Choubo and Tian, Yu and Pang, Guansong and Belagiannis, Vasileios and Reid, Ian and Carneiro, Gustavo},
+  booktitle=ICCV,
+  pages={1151--1161},
+  year={2023}
+}
+
+@inproceedings{zhao2024segment,
+  title={Segment every out-of-distribution object},
+  author={Zhao, Wenjie and Li, Jia and Dong, Xin and Xiang, Yu and Guo, Yunhui},
+  booktitle=CVPR,
+  pages={3910--3920},
+  year={2024}
+}
+
+
+```
+
 
 ![image](https://github.com/user-attachments/assets/e7909315-ec53-40c7-bb85-abf888452be6)
 
