@@ -56,7 +56,7 @@ Please place the downloaded weights in the appropriate directory as per the conf
 
 Replace the threshold-net section with the RPL training code as follows:
 
-Locate the threshold-net section of your code and replace it with the relevant code from the RPL repository for training. You can follow the instructions in the RPL repository to adapt the training process.
+Locate the adt-net section of your code and replace it with the relevant code from the RPL repository for training. You can follow the instructions in the RPL repository to adapt the training process.
 
 you can perform inference using the following command:
 
