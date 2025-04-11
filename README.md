@@ -77,7 +77,7 @@ If the code fails to run, please ensure that **MMDetection** is properly install
 Keep the box information in the output results for further processing. Then execute the following command to train the threshold:
 
  ```
-python train_threshold.py
+python train_adt.py
  ```
 
 
