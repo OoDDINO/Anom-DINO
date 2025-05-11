@@ -10,7 +10,8 @@ OodDINO is a state-of-the-art framework for anomaly detection on road anomaly da
 ## Framework 
 
 Our framework is built on top of [MMDetection](https://github.com/open-mmlab/mmdetection), a powerful open-source object detection toolbox. Please follow the [installation instructions](https://mmdetection.readthedocs.io/en/latest/install.html) to set up the environment.
-![image](https://github.com/user-attachments/assets/316493ab-aab0-4e79-9b46-97187f060fd6)
+![image](https://github.com/user-attachments/assets/1617dba5-09ef-4e39-b7fc-cdf51018dca2)
+
 
 
 ## Datasets Preparation
