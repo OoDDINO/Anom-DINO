@@ -1,5 +1,11 @@
 #   Rebuttal 
 ![guiyi(1)](https://github.com/user-attachments/assets/e2568f25-4606-4e29-b7b3-40d204f288ef)
+In the figure, the gray dashed line represents the standard sigmoid function, centered at $\mu = 0$. The red and blue curves correspond to the normalized responses for the foreground and background regions, centered at $\mu_{\text{fg}} = 1.0$ and $\mu_{\text{bg}} = -1.0$, respectively. The black horizontal dashed lines indicate the output range, set by $\alpha = 0.3$, which defines the normalized score interval of $[0.3, 0.8]$ for anomaly scores.
+
+From the visualization, it can be observed that when the anomaly score in the foreground region is high, the corresponding curve becomes steeper, indicating higher sensitivity. Conversely, when the confidence is low, the curve flattens, providing adaptive suppression. The background region exhibits the opposite behavior.
+
+This region-aware structure preserves the relative intensity ordering within each region while enhancing contrast between foreground and background responses. As a result, it is particularly effective in improving the discrimination of small objects and boundary anomalies.
+
 
 ![Uploading image.png…]()
 
