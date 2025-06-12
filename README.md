@@ -1,7 +1,8 @@
 #   Rebuttal 
 ![guiyi(1)](https://github.com/user-attachments/assets/e2568f25-4606-4e29-b7b3-40d204f288ef)
 
-[vis (1).pdf](https://github.com/user-attachments/files/20705404/vis.1.pdf)
+![Uploading image.png…]()
+
 
 # OoDDINO
 
