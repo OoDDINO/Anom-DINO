@@ -5,9 +5,9 @@
 
 
 
-# OoDDINO
+# AnomDINO
 
-OodDINO is a state-of-the-art framework for anomaly detection on road anomaly datasets. It achieves top performance on both the [RoadAnomaly Benchmark](https://paperswithcode.com/sota/anomaly-detection-on-road-anomaly) and the [SegmentMeIfYouCan Benchmark](https://segmentmeifyoucan.com/leaderboard).
+AnomDINO is a state-of-the-art framework for anomaly detection on road anomaly datasets. It achieves top performance on both the [RoadAnomaly Benchmark](https://paperswithcode.com/sota/anomaly-detection-on-road-anomaly) and the [SegmentMeIfYouCan Benchmark](https://segmentmeifyoucan.com/leaderboard).
 
 
 
@@ -93,7 +93,7 @@ Keep the box information in the output results for further processing. Then exec
 Acknowledgements
 This framework is based on MMDetection.
 
-The OodDINO framework has been evaluated on the RoadAnomaly and SegmentMeIfYouCan benchmarks.
+The AnomDINO framework has been evaluated on the RoadAnomaly and SegmentMeIfYouCan benchmarks.
 
 The baseline for this framework is provided by RPL.
 
